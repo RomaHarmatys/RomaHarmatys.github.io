@@ -29,7 +29,13 @@ h3 {font-family:'Montserrat', sans-serif;
 }
 
 .bottom-container {
+    
 
+}
+.skill-row {
+    display: inline-block;
+    width: 50%;
+    margin:auto;
 }
 
 .pro {
