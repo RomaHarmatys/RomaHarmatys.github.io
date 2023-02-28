@@ -51,7 +51,10 @@ h3 {font-family:'Montserrat', sans-serif;
 }
  .computer {
         width: 25%;
+     float: left;
     }
 .china {
     width: 25%
+        float: left:
+}
 }
