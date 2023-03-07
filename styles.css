@@ -11,7 +11,6 @@ h1 {
     margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
     color: #66BFBF;
-    
 }
 h2 {font-family:'Montserrat', sans-serif;
     font-size: 2.5rem;
@@ -19,12 +18,10 @@ h2 {font-family:'Montserrat', sans-serif;
     font-weight: normal;
     padding-bottom: 10px;
 }
-
 h3 {font-family:'Montserrat', sans-serif;
     font-size: 2.5rem;
     color: #11999E;
 }
-
 p {
     line-height: 2;
 }
@@ -48,7 +45,6 @@ a:hover {
     position: relative;
     padding-top: 100px;
     }
-
 .middle-container {
     margin: 100px 0;
 }
@@ -56,21 +52,15 @@ a:hover {
     width: 50%;
     margin:100px auto 100px auto;
     text-align: left;
-    
-    
 }
 .bottom-container {
     background-color: #66BFBF;
     position: relative;
     padding: 50px 0 20px;
     }
-
-    p{
-        font-color: #EAF6F6;
-    }
-    
-
-
+p {
+  font-color: #EAF6F6;
+  }
 .pro {
     text-decoration: underline;
 }
@@ -87,13 +77,11 @@ a:hover {
     font-size: 0.75rem;
     padding: 20px 0;
  }
-
 .top-cloud {
     position: absolute;
     right: 300px;
     top: 40px;
 }
-
 .bottom-cloud {
     position: absolute;
     right: 250px;
@@ -109,7 +97,6 @@ a:hover {
     float: right;
     margin-right: 30px;
 }
-
 .btn {
     background: #11cdd4;
     background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -126,7 +113,6 @@ a:hover {
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
-  
   .btn:hover {
     background: #3cb0fd;
     background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
