@@ -41,6 +41,8 @@ h3 {font-family:'Montserrat', sans-serif;
     position: relative;
     padding-top: 100px;
     }
+p {font-color: #EAF6F6;
+    }
     .btn {
         background: #66BFBF;
         background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
