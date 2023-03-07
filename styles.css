@@ -26,6 +26,11 @@ h3 {font-family:'Montserrat', sans-serif;
     position: relative;
     padding-top: 100px;
     }
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
 
 .middle-container {
 }
@@ -35,6 +40,16 @@ h3 {font-family:'Montserrat', sans-serif;
     text-align: left;
     line-height: 2;
     
+}
+ .computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    }
+.china-img {
+    width: 25%
+    float: right;
+    margin-right: 30px;
 }
 .bottom-container {
     background-color: #66BFBF;
@@ -75,19 +90,6 @@ p {font-color: #EAF6F6;
     text-decoration: underline;
 }
 
-.top-cloud {
-    position: absolute;
-    right: 300px;
-    top: 50px;
-}
- .computer-img {
-    width: 25%;
-    float: left;
-    margin-right: 30px;
-    }
-.china-img {
-    width: 25%
-    float: right;
-    margin-right: 30px;
-}
+
+
 
