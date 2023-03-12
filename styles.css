@@ -86,12 +86,16 @@ p {
     right: 250px;
     top: 40px;
 }
- .computer-img {
+
+.roma {
+    width: 15%;
+}
+ .computer {
     width: 15%;
     float: left;
     margin-right: 30px;
     }
-.china-img {
+.china {
     width: 15%
     float: right;
     margin-right: 30px;
